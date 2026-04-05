@@ -1,1 +1,4 @@
-{"data":"Ly8gUmVkaXJlY3QgaGFuZGxlZCBieSBBcHAudHN4IHJvdXRpbmcgLSB0aGlzIGZpbGUgaXMgdW51c2VkCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7CiAgcmV0dXJuIG51bGw7Cn0K"}
+// Redirect handled by App.tsx routing - this file is unused
+export default function Home() {
+  return null;
+}

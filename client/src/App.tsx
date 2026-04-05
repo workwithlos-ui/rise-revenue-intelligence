@@ -1,1 +1,51 @@
-{"data":"aW1wb3J0IHsgVG9hc3RlciB9IGZyb20gIkAvY29tcG9uZW50cy91aS9zb25uZXIiOwppbXBvcnQgeyBUb29sdGlwUHJvdmlkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvdG9vbHRpcCI7CmltcG9ydCBOb3RGb3VuZCBmcm9tICJAL3BhZ2VzL05vdEZvdW5kIjsKaW1wb3J0IHsgUm91dGUsIFN3aXRjaCB9IGZyb20gIndvdXRlciI7CmltcG9ydCBFcnJvckJvdW5kYXJ5IGZyb20gIi4vY29tcG9uZW50cy9FcnJvckJvdW5kYXJ5IjsKaW1wb3J0IHsgVGhlbWVQcm92aWRlciB9IGZyb20gIi4vY29udGV4dHMvVGhlbWVDb250ZXh0IjsKaW1wb3J0IEFwcExheW91dCBmcm9tICIuL2NvbXBvbmVudHMvQXBwTGF5b3V0IjsKaW1wb3J0IERhc2hib2FyZCBmcm9tICIuL3BhZ2VzL0Rhc2hib2FyZCI7CmltcG9ydCBGZWVkIGZyb20gIi4vcGFnZXMvRmVlZCI7CmltcG9ydCBSZXBvcnQgZnJvbSAiLi9wYWdlcy9SZXBvcnQiOwppbXBvcnQgU2V0dXAgZnJvbSAiLi9wYWdlcy9TZXR1cCI7CgpmdW5jdGlvbiBSb3V0ZXIoKSB7CiAgcmV0dXJuICgKICAgIDxBcHBMYXlvdXQ+CiAgICAgIDxTd2l0Y2g+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17RGFzaGJvYXJkfSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvZmVlZCIgY29tcG9uZW50PXtGZWVkfSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvcmVwb3J0IiBjb21wb25lbnQ9e1JlcG9ydH0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL3NldHVwIiBjb21wb25lbnQ9e1NldHVwfSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvNDA0IiBjb21wb25lbnQ9e05vdEZvdW5kfSAvPgogICAgICAgIDxSb3V0ZSBjb21wb25lbnQ9e05vdEZvdW5kfSAvPgogICAgICA8L1N3aXRjaD4KICAgIDwvQXBwTGF5b3V0PgogICk7Cn0KCmZ1bmN0aW9uIEFwcCgpIHsKICByZXR1cm4gKAogICAgPEVycm9yQm91bmRhcnk+CiAgICAgIDxUaGVtZVByb3ZpZGVyIGRlZmF1bHRUaGVtZT0iZGFyayI+CiAgICAgICAgPFRvb2x0aXBQcm92aWRlcj4KICAgICAgICAgIDxUb2FzdGVyCiAgICAgICAgICAgIHRoZW1lPSJkYXJrIgogICAgICAgICAgICB0b2FzdE9wdGlvbnM9e3sKICAgICAgICAgICAgICBzdHlsZTogewogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogInJnYmEoMjAsIDIwLCAzNSwgMC45NSkiLAogICAgICAgICAgICAgICAgYm9yZGVyOiAiMXB4IHNvbGlkIHJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiLAogICAgICAgICAgICAgICAgY29sb3I6ICJ3aGl0ZSIsCiAgICAgICAgICAgICAgICBiYWNrZHJvcEZpbHRlcjogImJsdXIoMjBweCkiLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH19CiAgICAgICAgICAvPgogICAgICAgICAgPFJvdXRlciAvPgogICAgICAgIDwvVG9vbHRpcFByb3ZpZGVyPgogICAgICA8L1RoZW1lUHJvdmlkZXI+CiAgICA8L0Vycm9yQm91bmRhcnk+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgQXBwOwo="}
+import { Toaster } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import NotFound from "@/pages/NotFound";
+import { Route, Switch } from "wouter";
+import ErrorBoundary from "./components/ErrorBoundary";
+import { ThemeProvider } from "./contexts/ThemeContext";
+import AppLayout from "./components/AppLayout";
+import Dashboard from "./pages/Dashboard";
+import Feed from "./pages/Feed";
+import Report from "./pages/Report";
+import Setup from "./pages/Setup";
+
+function Router() {
+  return (
+    <AppLayout>
+      <Switch>
+        <Route path="/" component={Dashboard} />
+        <Route path="/feed" component={Feed} />
+        <Route path="/report" component={Report} />
+        <Route path="/setup" component={Setup} />
+        <Route path="/404" component={NotFound} />
+        <Route component={NotFound} />
+      </Switch>
+    </AppLayout>
+  );
+}
+
+function App() {
+  return (
+    <ErrorBoundary>
+      <ThemeProvider defaultTheme="dark">
+        <TooltipProvider>
+          <Toaster
+            theme="dark"
+            toastOptions={{
+              style: {
+                background: "rgba(20, 20, 35, 0.95)",
+                border: "1px solid rgba(255,255,255,0.08)",
+                color: "white",
+                backdropFilter: "blur(20px)",
+              },
+            }}
+          />
+          <Router />
+        </TooltipProvider>
+      </ThemeProvider>
+    </ErrorBoundary>
+  );
+}
+
+export default App;

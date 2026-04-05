@@ -1,1 +1,127 @@
-{"data":"LyoKICogUGFydGljbGVCYWNrZ3JvdW5kIC0gQW1iaWVudCBmbG9hdGluZyBwYXJ0aWNsZXMKICogQ2FudmFzLWJhc2VkLCBwZXJmb3JtYW5jZS1vcHRpbWl6ZWQKICogVmlvbGV0ICsgdGVhbCBjb2xvciBzY2hlbWUKICovCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwoKaW50ZXJmYWNlIFBhcnRpY2xlIHsKICB4OiBudW1iZXI7CiAgeTogbnVtYmVyOwogIHZ4OiBudW1iZXI7CiAgdnk6IG51bWJlcjsKICBzaXplOiBudW1iZXI7CiAgb3BhY2l0eTogbnVtYmVyOwogIGNvbG9yOiBzdHJpbmc7CiAgcHVsc2VTcGVlZDogbnVtYmVyOwogIHB1bHNlT2Zmc2V0OiBudW1iZXI7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFBhcnRpY2xlQmFja2dyb3VuZCgpIHsKICBjb25zdCBjYW52YXNSZWYgPSB1c2VSZWY8SFRNTENhbnZhc0VsZW1lbnQ+KG51bGwpOwogIGNvbnN0IGFuaW1SZWYgPSB1c2VSZWY8bnVtYmVyPigwKTsKICBjb25zdCBwYXJ0aWNsZXNSZWYgPSB1c2VSZWY8UGFydGljbGVbXT4oW10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgY2FudmFzID0gY2FudmFzUmVmLmN1cnJlbnQ7CiAgICBpZiAoIWNhbnZhcykgcmV0dXJuOwogICAgY29uc3QgY3R4ID0gY2FudmFzLmdldENvbnRleHQoIjJkIik7CiAgICBpZiAoIWN0eCkgcmV0dXJuOwoKICAgIGNvbnN0IGNvbG9ycyA9IFsKICAgICAgInJnYmEoMTI0LCA1OCwgMjM3LCIsICAgLy8gdmlvbGV0CiAgICAgICJyZ2JhKDYsIDE4MiwgMjEyLCIsICAgIC8vIHRlYWwKICAgICAgInJnYmEoMTY3LCAxMzksIDI1MCwiLCAgLy8gdmlvbGV0IGxpZ2h0CiAgICAgICJyZ2JhKDEwMywgMjMyLCAyNDksIiwgIC8vIHRlYWwgbGlnaHQKICAgIF07CgogICAgY29uc3QgcmVzaXplID0gKCkgPT4gewogICAgICBjYW52YXMud2lkdGggPSB3aW5kb3cuaW5uZXJXaWR0aDsKICAgICAgY2FudmFzLmhlaWdodCA9IHdpbmRvdy5pbm5lckhlaWdodDsKICAgIH07CiAgICByZXNpemUoKTsKICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJyZXNpemUiLCByZXNpemUpOwoKICAgIC8vIEluaXQgcGFydGljbGVzCiAgICBjb25zdCBjb3VudCA9IE1hdGgubWluKDYwLCBNYXRoLmZsb29yKHdpbmRvdy5pbm5lcldpZHRoIC8gMjUpKTsKICAgIHBhcnRpY2xlc1JlZi5jdXJyZW50ID0gQXJyYXkuZnJvbSh7IGxlbmd0aDogY291bnQgfSwgKCkgPT4gKHsKICAgICAgeDogTWF0aC5yYW5kb20oKSAqIHdpbmRvdy5pbm5lcldpZHRoLAogICAgICB5OiBNYXRoLnJhbmRvbSgpICogd2luZG93LmlubmVySGVpZ2h0LAogICAgICB2eDogKE1hdGgucmFuZG9tKCkgLSAwLjUpICogMC4zLAogICAgICB2eTogKE1hdGgucmFuZG9tKCkgLSAwLjUpICogMC4zLAogICAgICBzaXplOiBNYXRoLnJhbmRvbSgpICogMS41ICsgMC41LAogICAgICBvcGFjaXR5OiBNYXRoLnJhbmRvbSgpICogMC41ICsgMC4xLAogICAgICBjb2xvcjogY29sb3JzW01hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIGNvbG9ycy5sZW5ndGgpXSwKICAgICAgcHVsc2VTcGVlZDogTWF0aC5yYW5kb20oKSAqIDAuMDIgKyAwLjAwNSwKICAgICAgcHVsc2VPZmZzZXQ6IE1hdGgucmFuZG9tKCkgKiBNYXRoLlBJICogMiwKICAgIH0pKTsKCiAgICBsZXQgZnJhbWUgPSAwOwogICAgY29uc3QgYW5pbWF0ZSA9ICgpID0+IHsKICAgICAgY3R4LmNsZWFyUmVjdCgwLCAwLCBjYW52YXMud2lkdGgsIGNhbnZhcy5oZWlnaHQpOwogICAgICBmcmFtZSsrOwoKICAgICAgcGFydGljbGVzUmVmLmN1cnJlbnQuZm9yRWFjaCgocCwgaSkgPT4gewogICAgICAgIC8vIFVwZGF0ZQogICAgICAgIHAueCArPSBwLnZ4OwogICAgICAgIHAueSArPSBwLnZ5OwogICAgICAgIGlmIChwLnggPCAwKSBwLnggPSBjYW52YXMud2lkdGg7CiAgICAgICAgaWYgKHAueCA+IGNhbnZhcy53aWR0aCkgcC54ID0gMDsKICAgICAgICBpZiAocC55IDwgMCkgcC55ID0gY2FudmFzLmhlaWdodDsKICAgICAgICBpZiAocC55ID4gY2FudmFzLmhlaWdodCkgcC55ID0gMDsKCiAgICAgICAgLy8gUHVsc2Ugb3BhY2l0eQogICAgICAgIGNvbnN0IHB1bHNlID0gTWF0aC5zaW4oZnJhbWUgKiBwLnB1bHNlU3BlZWQgKyBwLnB1bHNlT2Zmc2V0KSAqIDAuMiArIDAuODsKICAgICAgICBjb25zdCBhbHBoYSA9IHAub3BhY2l0eSAqIHB1bHNlOwoKICAgICAgICAvLyBEcmF3IHBhcnRpY2xlCiAgICAgICAgY3R4LmJlZ2luUGF0aCgpOwogICAgICAgIGN0eC5hcmMocC54LCBwLnksIHAuc2l6ZSwgMCwgTWF0aC5QSSAqIDIpOwogICAgICAgIGN0eC5maWxsU3R5bGUgPSBgJHtwLmNvbG9yfSR7YWxwaGF9KWA7CiAgICAgICAgY3R4LmZpbGwoKTsKCiAgICAgICAgLy8gRHJhdyBjb25uZWN0aW9ucyB0byBuZWFyYnkgcGFydGljbGVzCiAgICAgICAgZm9yIChsZXQgaiA9IGkgKyAxOyBqIDwgcGFydGljbGVzUmVmLmN1cnJlbnQubGVuZ3RoOyBqKyspIHsKICAgICAgICAgIGNvbnN0IHAyID0gcGFydGljbGVzUmVmLmN1cnJlbnRbal07CiAgICAgICAgICBjb25zdCBkeCA9IHAueCAtIHAyLng7CiAgICAgICAgICBjb25zdCBkeSA9IHAueSAtIHAyLnk7CiAgICAgICAgICBjb25zdCBkaXN0ID0gTWF0aC5zcXJ0KGR4ICogZHggKyBkeSAqIGR5KTsKICAgICAgICAgIGlmIChkaXN0IDwgMTIwKSB7CiAgICAgICAgICAgIGNvbnN0IGxpbmVBbHBoYSA9ICgxIC0gZGlzdCAvIDEyMCkgKiAwLjA4OwogICAgICAgICAgICBjdHguYmVnaW5QYXRoKCk7CiAgICAgICAgICAgIGN0eC5tb3ZlVG8ocC54LCBwLnkpOwogICAgICAgICAgICBjdHgubGluZVRvKHAyLngsIHAyLnkpOwogICAgICAgICAgICBjdHguc3Ryb2tlU3R5bGUgPSBgcmdiYSgxMjQsIDU4LCAyMzcsICR7bGluZUFscGhhfSlgOwogICAgICAgICAgICBjdHgubGluZVdpZHRoID0gMC41OwogICAgICAgICAgICBjdHguc3Ryb2tlKCk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KTsKCiAgICAgIGFuaW1SZWYuY3VycmVudCA9IHJlcXVlc3RBbmltYXRpb25GcmFtZShhbmltYXRlKTsKICAgIH07CiAgICBhbmltYXRlKCk7CgogICAgcmV0dXJuICgpID0+IHsKICAgICAgd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoInJlc2l6ZSIsIHJlc2l6ZSk7CiAgICAgIGNhbmNlbEFuaW1hdGlvbkZyYW1lKGFuaW1SZWYuY3VycmVudCk7CiAgICB9OwogIH0sIFtdKTsKCiAgcmV0dXJuICgKICAgIDxjYW52YXMKICAgICAgcmVmPXtjYW52YXNSZWZ9CiAgICAgIGlkPSJwYXJ0aWNsZS1jYW52YXMiCiAgICAgIHN0eWxlPXt7CiAgICAgICAgcG9zaXRpb246ICJmaXhlZCIsCiAgICAgICAgdG9wOiAwLAogICAgICAgIGxlZnQ6IDAsCiAgICAgICAgd2lkdGg6ICIxMDAlIiwKICAgICAgICBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICBwb2ludGVyRXZlbnRzOiAibm9uZSIsCiAgICAgICAgekluZGV4OiAwLAogICAgICAgIG9wYWNpdHk6IDAuMzUsCiAgICAgIH19CiAgICAvPgogICk7Cn0K"}
+/*
+ * ParticleBackground - Ambient floating particles
+ * Canvas-based, performance-optimized
+ * Violet + teal color scheme
+ */
+import { useEffect, useRef } from "react";
+
+interface Particle {
+  x: number;
+  y: number;
+  vx: number;
+  vy: number;
+  size: number;
+  opacity: number;
+  color: string;
+  pulseSpeed: number;
+  pulseOffset: number;
+}
+
+export default function ParticleBackground() {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const animRef = useRef<number>(0);
+  const particlesRef = useRef<Particle[]>([]);
+
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    const colors = [
+      "rgba(124, 58, 237,",   // violet
+      "rgba(6, 182, 212,",    // teal
+      "rgba(167, 139, 250,",  // violet light
+      "rgba(103, 232, 249,",  // teal light
+    ];
+
+    const resize = () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    };
+    resize();
+    window.addEventListener("resize", resize);
+
+    // Init particles
+    const count = Math.min(60, Math.floor(window.innerWidth / 25));
+    particlesRef.current = Array.from({ length: count }, () => ({
+      x: Math.random() * window.innerWidth,
+      y: Math.random() * window.innerHeight,
+      vx: (Math.random() - 0.5) * 0.3,
+      vy: (Math.random() - 0.5) * 0.3,
+      size: Math.random() * 1.5 + 0.5,
+      opacity: Math.random() * 0.5 + 0.1,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      pulseSpeed: Math.random() * 0.02 + 0.005,
+      pulseOffset: Math.random() * Math.PI * 2,
+    }));
+
+    let frame = 0;
+    const animate = () => {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      frame++;
+
+      particlesRef.current.forEach((p, i) => {
+        // Update
+        p.x += p.vx;
+        p.y += p.vy;
+        if (p.x < 0) p.x = canvas.width;
+        if (p.x > canvas.width) p.x = 0;
+        if (p.y < 0) p.y = canvas.height;
+        if (p.y > canvas.height) p.y = 0;
+
+        // Pulse opacity
+        const pulse = Math.sin(frame * p.pulseSpeed + p.pulseOffset) * 0.2 + 0.8;
+        const alpha = p.opacity * pulse;
+
+        // Draw particle
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+        ctx.fillStyle = `${p.color}${alpha})`;
+        ctx.fill();
+
+        // Draw connections to nearby particles
+        for (let j = i + 1; j < particlesRef.current.length; j++) {
+          const p2 = particlesRef.current[j];
+          const dx = p.x - p2.x;
+          const dy = p.y - p2.y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (dist < 120) {
+            const lineAlpha = (1 - dist / 120) * 0.08;
+            ctx.beginPath();
+            ctx.moveTo(p.x, p.y);
+            ctx.lineTo(p2.x, p2.y);
+            ctx.strokeStyle = `rgba(124, 58, 237, ${lineAlpha})`;
+            ctx.lineWidth = 0.5;
+            ctx.stroke();
+          }
+        }
+      });
+
+      animRef.current = requestAnimationFrame(animate);
+    };
+    animate();
+
+    return () => {
+      window.removeEventListener("resize", resize);
+      cancelAnimationFrame(animRef.current);
+    };
+  }, []);
+
+  return (
+    <canvas
+      ref={canvasRef}
+      id="particle-canvas"
+      style={{
+        position: "fixed",
+        top: 0,
+        left: 0,
+        width: "100%",
+        height: "100%",
+        pointerEvents: "none",
+        zIndex: 0,
+        opacity: 0.35,
+      }}
+    />
+  );
+}

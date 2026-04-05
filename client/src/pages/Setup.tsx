@@ -1,1 +1,193 @@
-{"data":"LyoKICogU2V0dXAgLyBTZXR0aW5ncyAtIEVsaXRlIERhcmsgRGVzaWduCiAqIEdsYXNzbW9ycGhpc20gbWV0cmljIGlucHV0IGNhcmRzCiAqIEZvY3VzIGdsb3cgZWZmZWN0cywgZ3JhZGllbnQgc2F2ZSBidXR0b24KICogU3luZSBoZWFkaW5ncywgRE0gU2FucyBib2R5CiAqLwoKaW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBTYXZlLCBDaGVjaywgU2V0dGluZ3MsIEZpbGVUZXh0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgdG9hc3QgfSBmcm9tICJzb25uZXIiOwoKaW50ZXJmYWNlIE1ldHJpY0ZpZWxkIHsKICBrZXk6IHN0cmluZzsKICBsYWJlbDogc3RyaW5nOwogIHBsYWNlaG9sZGVyOiBzdHJpbmc7CiAgcHJlZml4Pzogc3RyaW5nOwogIHN1ZmZpeD86IHN0cmluZzsKICBjb2xvcjogc3RyaW5nOwp9Cgpjb25zdCBtZXRyaWNGaWVsZHM6IE1ldHJpY0ZpZWxkW10gPSBbCiAgeyBrZXk6ICJtb250aGx5UmV2ZW51ZSIsIGxhYmVsOiAiTW9udGhseSBSZXZlbnVlIiwgcGxhY2Vob2xkZXI6ICI3NTAwMCIsIHByZWZpeDogIiQiLCBjb2xvcjogIiNhNzhiZmEiLCB9LAogIHsga2V5OiAibW9udGhseUFkU3BlbmQiLCBsYWJlbDogIk1vbnRobHkgQWQgU3BlbmQiLCBwbGFjZWhvbGRlcjogIjg1MDAiLCBwcmVmaXg6ICIkIiwgY29sb3I6ICIjNjdlOGY5IiwgfSwKICB7IGtleTogImN1c3RvbWVyTFRWIiwgbGFiZWw6ICJDdXN0b21lciBMVFYiLCBwbGFjZWhvbGRlcjogIjQ1MDAwIiwgcHJlZml4OiAiJCIsIGNvbG9yOiAiI2E3OGJmYSIsIH0sCiAgeyBrZXk6ICJjYWMiLCBsYWJlbDogIkN1c3RvbWVyIEFjcXVpc2l0aW9uIENvc3QiLCBwbGFjZWhvbGRlcjogIjI4MDAiLCBwcmVmaXg6ICIkIiwgY29sb3I6ICIjZjg3MTcxIiwgfSwKICB7IGtleTogImNodXJuUmF0ZSIsIGxhYmVsOiAiTW9udGhseSBDaHVybiBSYXRlIiwgcGxhY2Vob2xkZXI6ICI0LjUiLCBzdWZmaXg6ICIlIiwgY29sb3I6ICIjMzRkMzk5IiwgfSwKICB7IGtleTogInBpcGVsaW5lVmFsdWUiLCBsYWJlbDogIlBpcGVsaW5lIFZhbHVlIiwgcGxhY2Vob2xkZXI6ICIzMjAwMDAiLCBwcmVmaXg6ICIkIiwgY29sb3I6ICIjNjdlOGY5IiwgfSwKICB7IGtleTogImNsb3NlUmF0ZSIsIGxhYmVsOiAiQ2xvc2UgUmF0ZSIsIHBsYWNlaG9sZGVyOiAiMjIiLCBzdWZmaXg6ICIlIiwgY29sb3I6ICIjZmJiZjI0IiwgfSwKICB7IGtleTogImF2Z0RlYWxTaXplIiwgbGFiZWw6ICJBdmVyYWdlIERlYWwgU2l6ZSIsIHBsYWNlaG9sZGVyOiAiMTI1MDAiLCBwcmVmaXg6ICIkIiwgY29sb3I6ICIjYTc4YmZhIiwgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNldHVwKCkgewogIGNvbnN0IFt2YWx1ZXMsIHNldFZhbHVlc10gPSB1c2VTdGF0ZTxSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+Pih7fSk7CiAgY29uc3QgW25vdGVzLCBzZXROb3Rlc10gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW3NhdmVkLCBzZXRTYXZlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2ZvY3VzZWRGaWVsZCwgc2V0Rm9jdXNlZEZpZWxkXSA9IHVzZVN0YXRlPHN0cmluZyB8IG51bGw+KG51bGwpOwoKICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoa2V5OiBzdHJpbmcsIHZhbDogc3RyaW5nKSA9PiB7CiAgICBzZXRWYWx1ZXMoKHByZXYpID0+ICh7IC4uLnByZXYsIFtrZXldOiB2YWwgfSkpOwogICAgc2V0U2F2ZWQoZmFsc2UpOwogIH07CgogIGNvbnN0IGhhbmRsZVNhdmUgPSAoKSA9PiB7CiAgICBzZXRTYXZlZCh0cnVlKTsKICAgIHRvYXN0LnN1Y2Nlc3MoIk1ldHJpY3Mgc25hcHNob3Qgc2F2ZWQiLCB7CiAgICAgIGRlc2NyaXB0aW9uOiAiUklTRSB3aWxsIHVzZSB0aGlzIGRhdGEgZm9yIHlvdXIgbmV4dCBhbmFseXNpcy4iLAogICAgfSk7CiAgICBzZXRUaW1lb3V0KCgpID0+IHNldFNhdmVkKGZhbHNlKSwgMzAwMCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJweC01IGxnOnB4LTggcHktNiBsZzpweS04IG1heC13LVs3MjBweF0iPgogICAgICB7LyogSGVhZGVyICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogLTEwIH19CiAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC40IH19CiAgICAgICAgY2xhc3NOYW1lPSJtYi04IgogICAgICA+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTIiPgogICAgICAgICAgPFNldHRpbmdzIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LXZpb2xldC00MDAiIC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImxhYmVsLW1pY3JvIHRleHQtdmlvbGV0LTQwMCI+Q29uZmlndXJhdGlvbjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8aDEKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC0zeGwgbGc6dGV4dC00eGwgZm9udC1leHRyYWJvbGQgdGV4dC13aGl0ZSB0cmFja2luZy10aWdodCIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICInU3luZScsIHNhbnMtc2VyaWYiLCBsZXR0ZXJTcGFjaW5nOiAiLTAuMDNlbSIgfX0KICAgICAgICA+CiAgICAgICAgICBNZXRyaWNzIFNldHVwCiAgICAgICAgPC9oMT4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC13aGl0ZS80MCBtdC0yIGxlYWRpbmctcmVsYXhlZCI+CiAgICAgICAgICBFYWNoIHN1Ym1pc3Npb24gY3JlYXRlcyBhIHRpbWVzdGFtcGVkIHJlY29yZC4gUklTRSBjb21wYXJlcyBwZXJpb2RzIHRvIGRldGVjdCB0cmVuZHMgYW5kIGFub21hbGllcyB1c2luZyBHUklQIHNjb3JpbmcuCiAgICAgICAgPC9wPgogICAgICA8L21vdGlvbi5kaXY+CgogICAgICB7LyogRm9ybSAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgZ2FwLTMiPgogICAgICAgICAge21ldHJpY0ZpZWxkcy5tYXAoKGZpZWxkLCBpKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGlzRm9jdXNlZCA9IGZvY3VzZWRGaWVsZCA9PT0gZmllbGQua2V5OwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgICBrZXk9e2ZpZWxkLmtleX0KICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMTIgfX0KICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC4zLCBkZWxheTogMC4xICsgaSAqIDAuMDQgfX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC0yeGwgcC00IHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCIKICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGlzRm9jdXNlZCA/ICJyZ2JhKDI1NSwyNTUsMjU1LDAuMDQ1KSIgOiAicmdiYSgyNTUsMjU1LDI1NSwwLjAyNSkiLAogICAgICAgICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtpc0ZvY3VzZWQgPyBgJHtmaWVsZC5jb2xvcn0zMGAgOiAicmdiYSgyNTUsMjU1LDI1NSwwLjA3KSJ9YCwKICAgICAgICAgICAgICAgICAgYm94U2hhZG93OiBpc0ZvY3VzZWQgPyBgMCAwIDIwcHggJHtmaWVsZC5jb2xvcn0xMCwgMCA0cHggMjBweCByZ2JhKDAsMCwwLDAuMilgIDogIm5vbmUiLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJsYWJlbC1taWNybyBtYi0yIGJsb2NrIj57ZmllbGQubGFiZWx9PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSI+CiAgICAgICAgICAgICAgICAgIHtmaWVsZC5wcmVmaXggJiYgKAogICAgICAgICAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIgogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgY29sb3I6IGlzRm9jdXNlZCA/IGZpZWxkLmNvbG9yIDogInJnYmEoMjU1LDI1NSwyNTUsMC4yKSIgfX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICB7ZmllbGQucHJlZml4fQogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPXtmaWVsZC5wbGFjZWhvbGRlcn0KICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dmFsdWVzW2ZpZWxkLmtleV0gfHwgIiJ9CiAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBoYW5kbGVDaGFuZ2UoZmllbGQua2V5LCBlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgb25Gb2N1cz17KCkgPT4gc2V0Rm9jdXNlZEZpZWxkKGZpZWxkLmtleSl9CiAgICAgICAgICAgICAgICAgICAgb25CbHVyPXsoKSA9PiBzZXRGb2N1c2VkRmllbGQobnVsbCl9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgYmctdHJhbnNwYXJlbnQgdGV4dC14bCBmb250LWJvbGQgdGV4dC13aGl0ZSBwbGFjZWhvbGRlcjp0ZXh0LXdoaXRlLzE1IGZvY3VzOm91dGxpbmUtbm9uZSBbYXBwZWFyYW5jZTp0ZXh0ZmllbGRdIFsmOjotd2Via2l0LW91dGVyLXNwaW4tYnV0dG9uXTphcHBlYXJhbmNlLW5vbmUgWyY6Oi13ZWJraXQtaW5uZXItc3Bpbi1idXR0b25dOmFwcGVhcmFuY2Utbm9uZSIKICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAiJ1N5bmUnLCBzYW5zLXNlcmlmIiB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICB7ZmllbGQuc3VmZml4ICYmICgKICAgICAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGNvbG9yOiBpc0ZvY3VzZWQgPyBmaWVsZC5jb2xvciA6ICJyZ2JhKDI1NSwyNTUsMjU1LDAuMikiIH19CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAge2ZpZWxkLnN1ZmZpeH0KICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgICAgICk7CiAgICAgICAgICB9KX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIE5vdGVzICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDEyIH19CiAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMywgZGVsYXk6IDAuNDIgfX0KICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC0yeGwgcC00IHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCIKICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGJhY2tncm91bmQ6IGZvY3VzZWRGaWVsZCA9PT0gIm5vdGVzIiA/ICJyZ2JhKDI1NSwyNTUsMjU1LDAuMDQ1KSIgOiAicmdiYSgyNTUsMjU1LDI1NSwwLjAyNSkiLAogICAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtmb2N1c2VkRmllbGQgPT09ICJub3RlcyIgPyAicmdiYSgxMjQsNTgsMjM3LDAuMykiIDogInJnYmEoMjU1LDI1NSwyNTUsMC4wNykifWAsCiAgICAgICAgICAgIGJveFNoYWRvdzogZm9jdXNlZEZpZWxkID09PSAibm90ZXMiID8gIjAgMCAyMHB4IHJnYmEoMTI0LDU4LDIzNywwLjA4KSIgOiAibm9uZSIsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImxhYmVsLW1pY3JvIG1iLTIgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSI+CiAgICAgICAgICAgIDxGaWxlVGV4dCBjbGFzc05hbWU9InctMyBoLTMiIC8+CiAgICAgICAgICAgIE5vdGVzIChPcHRpb25hbCkKICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgICAgdmFsdWU9e25vdGVzfQogICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHsgc2V0Tm90ZXMoZS50YXJnZXQudmFsdWUpOyBzZXRTYXZlZChmYWxzZSk7IH19CiAgICAgICAgICAgIG9uRm9jdXM9eygpID0+IHNldEZvY3VzZWRGaWVsZCgibm90ZXMiKX0KICAgICAgICAgICAgb25CbHVyPXsoKSA9PiBzZXRGb2N1c2VkRmllbGQobnVsbCl9CiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJBbnkgY29udGV4dCBmb3IgdGhpcyBwZXJpb2QuLi4iCiAgICAgICAgICAgIHJvd3M9ezN9CiAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIGJnLXRyYW5zcGFyZW50IHRleHQtc20gdGV4dC13aGl0ZS83MCBwbGFjZWhvbGRlcjp0ZXh0LXdoaXRlLzE1IGZvY3VzOm91dGxpbmUtbm9uZSByZXNpemUtbm9uZSBsZWFkaW5nLXJlbGF4ZWQiCiAgICAgICAgICAvPgogICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgey8qIFNhdmUgQnV0dG9uICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDEyIH19CiAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMywgZGVsYXk6IDAuNDggfX0KICAgICAgICAgIGNsYXNzTmFtZT0icHQtMiIKICAgICAgICA+CiAgICAgICAgICA8bW90aW9uLmJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVTYXZlfQogICAgICAgICAgICB3aGlsZUhvdmVyPXt7IHNjYWxlOiAxLjAyIH19CiAgICAgICAgICAgIHdoaWxlVGFwPXt7IHNjYWxlOiAwLjk3IH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTcgcHktMy41IHJvdW5kZWQteGwgdGV4dC1zbSBmb250LXNlbWlib2xkIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBzYXZlZAogICAgICAgICAgICAgICAgPyAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzA1OTY2OSwgIzEwYjk4MSkiCiAgICAgICAgICAgICAgICA6ICJsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCAjN2MzYWVkLCAjMDZiNmQ0KSIsCiAgICAgICAgICAgICAgYm94U2hhZG93OiBzYXZlZAogICAgICAgICAgICAgICAgPyAiMCAwIDIwcHggcmdiYSgxNiwxODUsMTI5LDAuNCkiCiAgICAgICAgICAgICAgICA6ICIwIDAgMjBweCByZ2JhKDEyNCw1OCwyMzcsMC4zNSksIDAgNHB4IDE2cHggcmdiYSgwLDAsMCwwLjMpIiwKICAgICAgICAgICAgICBjb2xvcjogIndoaXRlIiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAge3NhdmVkID8gKAogICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICA8Q2hlY2sgY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgICAgICAgU2F2ZWQgU3VjY2Vzc2Z1bGx5CiAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgIDxTYXZlIGNsYXNzTmFtZT0idy00IGgtNCIgLz4KICAgICAgICAgICAgICAgIFNhdmUgTWV0cmljcyBTbmFwc2hvdAogICAgICAgICAgICAgIDwvPgogICAgICAgICAgICApfQogICAgICAgICAgPC9tb3Rpb24uYnV0dG9uPgogICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+/*
+ * Setup / Settings - Elite Dark Design
+ * Glassmorphism metric input cards
+ * Focus glow effects, gradient save button
+ * Syne headings, DM Sans body
+ */
+
+import { motion } from "framer-motion";
+import { useState } from "react";
+import { Save, Check, Settings, FileText } from "lucide-react";
+import { toast } from "sonner";
+
+interface MetricField {
+  key: string;
+  label: string;
+  placeholder: string;
+  prefix?: string;
+  suffix?: string;
+  color: string;
+}
+
+const metricFields: MetricField[] = [
+  { key: "monthlyRevenue", label: "Monthly Revenue", placeholder: "75000", prefix: "$", color: "#a78bfa", },
+  { key: "monthlyAdSpend", label: "Monthly Ad Spend", placeholder: "8500", prefix: "$", color: "#67e8f9", },
+  { key: "customerLTV", label: "Customer LTV", placeholder: "45000", prefix: "$", color: "#a78bfa", },
+  { key: "cac", label: "Customer Acquisition Cost", placeholder: "2800", prefix: "$", color: "#f87171", },
+  { key: "churnRate", label: "Monthly Churn Rate", placeholder: "4.5", suffix: "%", color: "#34d399", },
+  { key: "pipelineValue", label: "Pipeline Value", placeholder: "320000", prefix: "$", color: "#67e8f9", },
+  { key: "closeRate", label: "Close Rate", placeholder: "22", suffix: "%", color: "#fbbf24", },
+  { key: "avgDealSize", label: "Average Deal Size", placeholder: "12500", prefix: "$", color: "#a78bfa", },
+];
+
+export default function Setup() {
+  const [values, setValues] = useState<Record<string, string>>({});
+  const [notes, setNotes] = useState("");
+  const [saved, setSaved] = useState(false);
+  const [focusedField, setFocusedField] = useState<string | null>(null);
+
+  const handleChange = (key: string, val: string) => {
+    setValues((prev) => ({ ...prev, [key]: val }));
+    setSaved(false);
+  };
+
+  const handleSave = () => {
+    setSaved(true);
+    toast.success("Metrics snapshot saved", {
+      description: "RISE will use this data for your next analysis.",
+    });
+    setTimeout(() => setSaved(false), 3000);
+  };
+
+  return (
+    <div className="px-5 lg:px-8 py-6 lg:py-8 max-w-[720px]">
+      {/* Header */}
+      <motion.div
+        initial={{ opacity: 0, y: -10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4 }}
+        className="mb-8"
+      >
+        <div className="flex items-center gap-2 mb-2">
+          <Settings className="w-4 h-4 text-violet-400" />
+          <span className="label-micro text-violet-400">Configuration</span>
+        </div>
+        <h1
+          className="text-3xl lg:text-4xl font-extrabold text-white tracking-tight"
+          style={{ fontFamily: "'Syne', sans-serif", letterSpacing: "-0.03em" }}
+        >
+          Metrics Setup
+        </h1>
+        <p className="text-sm text-white/40 mt-2 leading-relaxed">
+          Each submission creates a timestamped record. RISE compares periods to detect trends and anomalies using GRIP scoring.
+        </p>
+      </motion.div>
+
+      {/* Form */}
+      <div className="space-y-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          {metricFields.map((field, i) => {
+            const isFocused = focusedField === field.key;
+            return (
+              <motion.div
+                key={field.key}
+                initial={{ opacity: 0, y: 12 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.3, delay: 0.1 + i * 0.04 }}
+                className="rounded-2xl p-4 transition-all duration-200"
+                style={{
+                  background: isFocused ? "rgba(255,255,255,0.045)" : "rgba(255,255,255,0.025)",
+                  border: `1px solid ${isFocused ? `${field.color}30` : "rgba(255,255,255,0.07)"}`,
+                  boxShadow: isFocused ? `0 0 20px ${field.color}10, 0 4px 20px rgba(0,0,0,0.2)` : "none",
+                }}
+              >
+                <label className="label-micro mb-2 block">{field.label}</label>
+                <div className="flex items-center gap-1">
+                  {field.prefix && (
+                    <span
+                      className="text-lg font-bold"
+                      style={{ color: isFocused ? field.color : "rgba(255,255,255,0.2)" }}
+                    >
+                      {field.prefix}
+                    </span>
+                  )}
+                  <input
+                    type="number"
+                    placeholder={field.placeholder}
+                    value={values[field.key] || ""}
+                    onChange={(e) => handleChange(field.key, e.target.value)}
+                    onFocus={() => setFocusedField(field.key)}
+                    onBlur={() => setFocusedField(null)}
+                    className="flex-1 bg-transparent text-xl font-bold text-white placeholder:text-white/15 focus:outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+                    style={{ fontFamily: "'Syne', sans-serif" }}
+                  />
+                  {field.suffix && (
+                    <span
+                      className="text-lg font-bold"
+                      style={{ color: isFocused ? field.color : "rgba(255,255,255,0.2)" }}
+                    >
+                      {field.suffix}
+                    </span>
+                  )}
+                </div>
+              </motion.div>
+            );
+          })}
+        </div>
+
+        {/* Notes */}
+        <motion.div
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3, delay: 0.42 }}
+          className="rounded-2xl p-4 transition-all duration-200"
+          style={{
+            background: focusedField === "notes" ? "rgba(255,255,255,0.045)" : "rgba(255,255,255,0.025)",
+            border: `1px solid ${focusedField === "notes" ? "rgba(124,58,237,0.3)" : "rgba(255,255,255,0.07)"}`,
+            boxShadow: focusedField === "notes" ? "0 0 20px rgba(124,58,237,0.08)" : "none",
+          }}
+        >
+          <label className="label-micro mb-2 flex items-center gap-1.5">
+            <FileText className="w-3 h-3" />
+            Notes (Optional)
+          </label>
+          <textarea
+            value={notes}
+            onChange={(e) => { setNotes(e.target.value); setSaved(false); }}
+            onFocus={() => setFocusedField("notes")}
+            onBlur={() => setFocusedField(null)}
+            placeholder="Any context for this period..."
+            rows={3}
+            className="w-full bg-transparent text-sm text-white/70 placeholder:text-white/15 focus:outline-none resize-none leading-relaxed"
+          />
+        </motion.div>
+
+        {/* Save Button */}
+        <motion.div
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3, delay: 0.48 }}
+          className="pt-2"
+        >
+          <motion.button
+            onClick={handleSave}
+            whileHover={{ scale: 1.02 }}
+            whileTap={{ scale: 0.97 }}
+            className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl text-sm font-semibold transition-all duration-300"
+            style={{
+              background: saved
+                ? "linear-gradient(135deg, #059669, #10b981)"
+                : "linear-gradient(135deg, #7c3aed, #06b6d4)",
+              boxShadow: saved
+                ? "0 0 20px rgba(16,185,129,0.4)"
+                : "0 0 20px rgba(124,58,237,0.35), 0 4px 16px rgba(0,0,0,0.3)",
+              color: "white",
+            }}
+          >
+            {saved ? (
+              <>
+                <Check className="w-4 h-4" />
+                Saved Successfully
+              </>
+            ) : (
+              <>
+                <Save className="w-4 h-4" />
+                Save Metrics Snapshot
+              </>
+            )}
+          </motion.button>
+        </motion.div>
+      </div>
+    </div>
+  );
+}

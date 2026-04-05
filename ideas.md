@@ -1,1 +1,179 @@
-{"data":"IyBSSVNFIFJldmVudWUgSW50ZWxsaWdlbmNlIC0gRGVzaWduIEJyYWluc3Rvcm0KCjxyZXNwb25zZT4KPHRleHQ+CgojIyBJZGVhIDE6ICJTd2lzcyBQcmVjaXNpb24iIC0gSW50ZXJuYXRpb25hbCBUeXBvZ3JhcGhpYyBTdHlsZQoKKipEZXNpZ24gTW92ZW1lbnQqKjogU3dpc3MvSW50ZXJuYXRpb25hbCBUeXBvZ3JhcGhpYyBTdHlsZSBtZWV0cyBtb2Rlcm4gU2FhUyAodGhpbmsgTGluZWFyIG1lZXRzIEJsb29tYmVyZyBUZXJtaW5hbCByZWZpbmVtZW50KQoKKipDb3JlIFByaW5jaXBsZXMqKjoKMS4gTWF0aGVtYXRpY2FsIHByZWNpc2lvbiBpbiBldmVyeSBzcGFjaW5nIGRlY2lzaW9uIC0gOHB4IGdyaWQgc3lzdGVtLCBubyBleGNlcHRpb25zCjIuIFR5cG9ncmFwaHkgYXMgdGhlIHByaW1hcnkgZGVzaWduIGVsZW1lbnQgLSBoaWVyYXJjaHkgdGhyb3VnaCB3ZWlnaHQgYW5kIHNjYWxlLCBub3QgZGVjb3JhdGlvbgozLiBSZXN0cmFpbmVkIGNvbG9yIC0gbmVhci1tb25vY2hyb21lIHdpdGggYSBzaW5nbGUgYWNjZW50IGZvciBhY3Rpb24gc3RhdGVzCjQuIEluZm9ybWF0aW9uIGRlbnNpdHkgd2l0aG91dCBjbHV0dGVyIC0gZXZlcnkgcGl4ZWwgZWFybnMgaXRzIHBsYWNlCgoqKkNvbG9yIFBoaWxvc29waHkqKjogQSBuZWFyLW1vbm9jaHJvbWUgcGFsZXR0ZSByb290ZWQgaW4gd2FybSBncmF5cyAobm90IGNvbGQgYmx1ZS1ncmF5cykuIFRoZSB3YXJtdGggc2lnbmFscyBhcHByb2FjaGFiaWxpdHkgd2hpbGUgdGhlIHJlc3RyYWludCBzaWduYWxzIHNvcGhpc3RpY2F0aW9uLiBBIHNpbmdsZSBlbWVyYWxkIGFjY2VudCAoIzEwQjk4MSkgZm9yIHBvc2l0aXZlIG1ldHJpY3MgYW5kIENUQXMgLSBncmVlbiBiZWNhdXNlIHRoaXMgaXMgYWJvdXQgcmV2ZW51ZSBncm93dGguIFJlZCAoI0VGNDQ0NCkgb25seSBmb3IgY3JpdGljYWwgYWxlcnRzLiBUaGUgYWJzZW5jZSBvZiBjb2xvciBJUyB0aGUgZGVzaWduLgoKLSBCYWNrZ3JvdW5kOiAjRkFGQUY5ICh3YXJtIG9mZi13aGl0ZSkKLSBTdXJmYWNlOiAjRkZGRkZGCi0gQm9yZGVyOiAjRTdFNUU0ICh3YXJtIGdyYXkpCi0gVGV4dCBQcmltYXJ5OiAjMUMxOTE3ICh3YXJtIG5lYXItYmxhY2spCi0gVGV4dCBTZWNvbmRhcnk6ICM3ODcxNkMgKHdhcm0gbWlkLWdyYXkpCi0gVGV4dCBUZXJ0aWFyeTogI0E4QTI5RQotIEFjY2VudDogIzEwQjk4MSAoZW1lcmFsZCkKLSBEZXN0cnVjdGl2ZTogI0VGNDQ0NAoKKipMYXlvdXQgUGFyYWRpZ20qKjogTGVmdC1hbmNob3JlZCBzaWRlYmFyIG5hdmlnYXRpb24gd2l0aCBhIGdlbmVyb3VzIGNvbnRlbnQgYXJlYS4gVGhlIHNpZGViYXIgaXMgbWluaW1hbCAtIGp1c3QgaWNvbnMgd2l0aCBsYWJlbHMsIDY0cHggd2lkZSBjb2xsYXBzZWQsIDI0MHB4IGV4cGFuZGVkLiBDb250ZW50IGFyZWEgdXNlcyBhIHNpbmdsZS1jb2x1bW4gbGF5b3V0IHdpdGggY2FyZHMgdGhhdCBicmVhdGhlLiBObyBjcmFtcGVkIG11bHRpLWNvbHVtbiBncmlkcy4KCioqU2lnbmF0dXJlIEVsZW1lbnRzKio6CjEuIE92ZXJzaXplZCBtZXRyaWMgbnVtYmVycyBpbiBhIGRpc3BsYXkgZm9udCAoRE0gU2FucyBvciBJbnN0cnVtZW50IFNhbnMpIGF0IDQ4LTU2cHggLSB0aGUgbnVtYmVycyBBUkUgdGhlIGludGVyZmFjZQoyLiBTdWJ0bGUgZG90LWdyaWQgcGF0dGVybiBvbiBlbXB0eSBzdGF0ZXMgLSByZWZlcmVuY2VzIGdyYXBoIHBhcGVyLCBzaWduYWxzIHByZWNpc2lvbgozLiBNaWNyby1sYWJlbHMgaW4gdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgMTBweCAtIGNyZWF0ZXMgdGVuc2lvbiB3aXRoIGxhcmdlIG51bWJlcnMKCioqSW50ZXJhY3Rpb24gUGhpbG9zb3BoeSoqOiBJbnRlcmFjdGlvbnMgc2hvdWxkIGZlZWwgaW1tZWRpYXRlIGFuZCBwcmVjaXNlLiBObyBib3VuY3kgYW5pbWF0aW9ucy4gU3ByaW5nLWJhc2VkIHRyYW5zaXRpb25zIHdpdGggaGlnaCBzdGlmZm5lc3MuIEhvdmVyIHN0YXRlcyByZXZlYWwgYWRkaXRpb25hbCBjb250ZXh0ICh0b29sdGlwcywgZXhwYW5kZWQgY2FyZHMpIHJhdGhlciB0aGFuIGNoYW5naW5nIHZpc3VhbCB3ZWlnaHQuIEV2ZXJ5dGhpbmcgcmVzcG9uZHMgd2l0aGluIDEwMG1zLgoKKipBbmltYXRpb24qKjoKLSBQYWdlIHRyYW5zaXRpb25zOiAyMDBtcyBlYXNlLW91dCBvcGFjaXR5ICsgOHB4IHRyYW5zbGF0ZVkKLSBDYXJkIGhvdmVyOiAxNTBtcyBzdWJ0bGUgc2hhZG93IGVsZXZhdGlvbiAoMCAxcHggM3B4IHRvIDAgNHB4IDEycHgpCi0gTnVtYmVyIGNvdW50ZXJzOiA4MDBtcyBzcHJpbmcgYW5pbWF0aW9uIG9uIGluaXRpYWwgbG9hZAotIFNpZGViYXI6IDIwMG1zIHdpZHRoIHRyYW5zaXRpb24gd2l0aCBjb250ZW50IGNyb3NzZmFkZQotIFNrZWxldG9uIGxvYWRpbmc6IFN1YnRsZSBzaGltbWVyIGF0IDEuNXMgY3ljbGUKCioqVHlwb2dyYXBoeSBTeXN0ZW0qKjoKLSBEaXNwbGF5L051bWJlcnM6IERNIFNhbnMgQm9sZCwgNDgtNTZweCwgdHJhY2tpbmcgdGlnaHQgKC0wLjAyZW0pCi0gUGFnZSBUaXRsZXM6IERNIFNhbnMgU2VtaWJvbGQsIDI4LTMycHgKLSBTZWN0aW9uIEhlYWRlcnM6IERNIFNhbnMgTWVkaXVtLCAxOC0yMHB4Ci0gQm9keTogRE0gU2FucyBSZWd1bGFyLCAxNC0xNXB4LCBsaW5lLWhlaWdodCAxLjYKLSBMYWJlbHM6IERNIFNhbnMgTWVkaXVtLCAxMS0xMnB4LCB1cHBlcmNhc2UsIHRyYWNraW5nIDAuMDVlbQotIE1vbm8gKGZvciBzcGVjaWZpYyBkYXRhKTogSmV0QnJhaW5zIE1vbm8sIDEzcHgKCjwvdGV4dD4KPHByb2JhYmlsaXR5PjAuMDg8L3Byb2JhYmlsaXR5Pgo8L3Jlc3BvbnNlPgoKPHJlc3BvbnNlPgo8dGV4dD4KCiMjIElkZWEgMjogIkRhcmsgQ29tbWFuZCBDZW50ZXIiIC0gVGFjdGljYWwgSW50ZWxsaWdlbmNlIEFlc3RoZXRpYwoKKipEZXNpZ24gTW92ZW1lbnQqKjogTWlsaXRhcnktZ3JhZGUgY29tbWFuZCBjZW50ZXIgbWVldHMgV2hvb3AvQXJjIEJyb3dzZXIgZGFyayBtb2RlIC0gdGhlICJ3YXIgcm9vbSIgZm9yIHJldmVudWUKCioqQ29yZSBQcmluY2lwbGVzKio6CjEuIERhcmstZmlyc3QgZGVzaWduIHRoYXQgZmVlbHMgbGlrZSBhIHByZW1pdW0gaW5zdHJ1bWVudCBwYW5lbCwgbm90IGEgaGFja2VyIHRlcm1pbmFsCjIuIEdsb3dpbmcgZGF0YSBwb2ludHMgYWdhaW5zdCBkYXJrIHN1cmZhY2VzIC0gaW5mb3JtYXRpb24gZW1lcmdlcyBmcm9tIGRhcmtuZXNzCjMuIExheWVyZWQgZGVwdGggdGhyb3VnaCBzdWJ0bGUgdHJhbnNwYXJlbmN5IGFuZCBibHVyIGVmZmVjdHMKNC4gU3RhdHVzLWRyaXZlbiBjb2xvciBjb2RpbmcgLSBldmVyeSBjb2xvciBoYXMgc2VtYW50aWMgbWVhbmluZwoKKipDb2xvciBQaGlsb3NvcGh5Kio6IERlZXAgY2hhcmNvYWwgYmFzZSAobm90IHB1cmUgYmxhY2sgLSB0aGF0J3MgYW1hdGV1cikgd2l0aCBsYXllcmVkIHN1cmZhY2VzIHVzaW5nIHN1YnRsZSB0cmFuc3BhcmVuY3kuIEFjY2VudCBjb2xvcnMgYXJlIGZ1bmN0aW9uYWwsIG5vdCBkZWNvcmF0aXZlOiBlbWVyYWxkIGZvciBncm93dGgvcG9zaXRpdmUsIGFtYmVyIGZvciB3YXJuaW5ncywgcm9zZSBmb3IgY3JpdGljYWwuIEEgY29vbCBibHVlLXdoaXRlIGZvciBwcmltYXJ5IHRleHQgY3JlYXRlcyBjb250cmFzdCB3aXRob3V0IGhhcnNobmVzcy4KCi0gQmFja2dyb3VuZDogIzBBMEEwQiAobmVhci1ibGFjaykKLSBTdXJmYWNlIDE6IHJnYmEoMjU1LDI1NSwyNTUsMC4wMykKLSBTdXJmYWNlIDI6IHJnYmEoMjU1LDI1NSwyNTUsMC4wNikKLSBTdXJmYWNlIDM6IHJnYmEoMjU1LDI1NSwyNTUsMC4wOSkKLSBCb3JkZXI6IHJnYmEoMjU1LDI1NSwyNTUsMC4wOCkKLSBUZXh0IFByaW1hcnk6ICNGNEY0RjUgKGNvb2wgd2hpdGUpCi0gVGV4dCBTZWNvbmRhcnk6ICNBMUExQUEKLSBUZXh0IFRlcnRpYXJ5OiAjNzE3MTdBCi0gQWNjZW50IEdyZWVuOiAjMzREMzk5Ci0gQWNjZW50IEFtYmVyOiAjRkJCRjI0Ci0gQWNjZW50IFJvc2U6ICNGQjcxODUKCioqTGF5b3V0IFBhcmFkaWdtKio6IFRvcCBuYXZpZ2F0aW9uIGJhciB3aXRoIGEgZnVsbC13aWR0aCBjb250ZW50IGFyZWEuIE5hdmlnYXRpb24gaXMgYSB0aGluIDU2cHggYmFyIHdpdGggY2VudGVyZWQgdGFicy4gQ29udGVudCB1c2VzIGEgbWFzb25yeS1pbnNwaXJlZCBjYXJkIGxheW91dCB3aGVyZSBjYXJkcyBoYXZlIHZhcnlpbmcgaGVpZ2h0cyBiYXNlZCBvbiBjb250ZW50IGltcG9ydGFuY2UuIENyaXRpY2FsIGluc2lnaHRzIGdldCAyeCBoZWlnaHQuCgoqKlNpZ25hdHVyZSBFbGVtZW50cyoqOgoxLiBHbGFzc21vcnBoaWMgY2FyZCBzdXJmYWNlcyB3aXRoIGJhY2tkcm9wLWJsdXIgYW5kIHN1YnRsZSBib3JkZXIgZ2xvdyBvbiBob3ZlcgoyLiBBbmltYXRlZCBncmFkaWVudCBib3JkZXJzIG9uIGFjdGl2ZS9jcml0aWNhbCBjYXJkcyAoc3VidGxlLCBub3QgZ2FyaXNoKQozLiBTdGF0dXMgaW5kaWNhdG9yIGRvdHMgdGhhdCBwdWxzZSBnZW50bHkgZm9yIGxpdmUgZGF0YQoKKipJbnRlcmFjdGlvbiBQaGlsb3NvcGh5Kio6IEludGVyYWN0aW9ucyBmZWVsIGxpa2Ugb3BlcmF0aW5nIGEgcHJlY2lzaW9uIGluc3RydW1lbnQuIENhcmRzIGxpZnQgc2xpZ2h0bHkgb24gaG92ZXIgd2l0aCBhIGdsb3cgZWZmZWN0LiBUcmFuc2l0aW9ucyBhcmUgc21vb3RoIGFuZCBkZWxpYmVyYXRlLiBDbGljayBmZWVkYmFjayBpcyBpbW1lZGlhdGUgd2l0aCBhIHN1YnRsZSBzY2FsZSBwdWxzZS4gVGhlIGludGVyZmFjZSByZXdhcmRzIGV4cGxvcmF0aW9uIHdpdGggcHJvZ3Jlc3NpdmUgZGlzY2xvc3VyZS4KCioqQW5pbWF0aW9uKio6Ci0gQ2FyZHM6IDMwMG1zIHNwcmluZyB3aXRoIHNsaWdodCBzY2FsZSAoMS4wIHRvIDEuMDEpIGFuZCBnbG93IG9uIGhvdmVyCi0gUGFnZSB0cmFuc2l0aW9uczogMjUwbXMgY3Jvc3NmYWRlIHdpdGggc3RhZ2dlcmVkIGNhcmQgZW50cmFuY2UgKDUwbXMgZGVsYXkgZWFjaCkKLSBTdGF0dXMgZG90czogMnMgaW5maW5pdGUgcHVsc2UgYW5pbWF0aW9uCi0gR3JhZGllbnQgYm9yZGVyczogM3MgaW5maW5pdGUgcm90YXRpb24gb24gY3JpdGljYWwgaXRlbXMKLSBMb2FkaW5nOiBTa2VsZXRvbiB3aXRoIHN1YnRsZSBnbG93IHN3ZWVwCgoqKlR5cG9ncmFwaHkgU3lzdGVtKio6Ci0gRGlzcGxheS9OdW1iZXJzOiBJbnRlciBUaWdodCBCb2xkLCA0NC01MnB4LCB0cmFja2luZyAtMC4wM2VtCi0gUGFnZSBUaXRsZXM6IEludGVyIFRpZ2h0IFNlbWlib2xkLCAyNi0zMHB4Ci0gU2VjdGlvbiBIZWFkZXJzOiBJbnRlciBNZWRpdW0sIDE2LTE4cHgKLSBCb2R5OiBJbnRlciBSZWd1bGFyLCAxNHB4LCBsaW5lLWhlaWdodCAxLjY1Ci0gTGFiZWxzOiBJbnRlciBNZWRpdW0sIDExcHgsIHVwcGVyY2FzZSwgdHJhY2tpbmcgMC4wNmVtCi0gTW9ubzogR2Vpc3QgTW9ubywgMTNweAoKPC90ZXh0Pgo8cHJvYmFiaWxpdHk+MC4wNjwvcHJvYmFiaWxpdHk+CjwvcmVzcG9uc2U+Cgo8cmVzcG9uc2U+Cjx0ZXh0PgoKIyMgSWRlYSAzOiAiRWRpdG9yaWFsIEludGVsbGlnZW5jZSIgLSBNYWdhemluZS1HcmFkZSBEYXRhIFN0b3J5dGVsbGluZwoKKipEZXNpZ24gTW92ZW1lbnQqKjogRWRpdG9yaWFsIGRlc2lnbiAodGhpbmsgTW9ub2NsZSBtYWdhemluZSwgQmxvb21iZXJnIEJ1c2luZXNzd2VlaykgbWVldHMgU3RyaXBlJ3MgY2xhcml0eSAtIGRhdGEgcHJlc2VudGVkIGFzIG5hcnJhdGl2ZQoKKipDb3JlIFByaW5jaXBsZXMqKjoKMS4gU2VyaWYgKyBzYW5zLXNlcmlmIHRlbnNpb24gY3JlYXRlcyBpbnRlbGxlY3R1YWwgYXV0aG9yaXR5CjIuIEdlbmVyb3VzIHdoaXRlc3BhY2UgdGhhdCBzaWduYWxzIGNvbmZpZGVuY2UgYW5kIHByZW1pdW0gcG9zaXRpb25pbmcKMy4gRGF0YSBhcyBlZGl0b3JpYWwgY29udGVudCAtIGNoYXJ0cyBhbmQgbnVtYmVycyBhcmUgc3Rvcmllcywgbm90IGp1c3QgZGlzcGxheXMKNC4gQXN5bW1ldHJpYyBsYXlvdXRzIHRoYXQgZ3VpZGUgdGhlIGV5ZSB0aHJvdWdoIGEgZGVsaWJlcmF0ZSByZWFkaW5nIGZsb3cKCioqQ29sb3IgUGhpbG9zb3BoeSoqOiBQcmVkb21pbmFudGx5IHdoaXRlL2NyZWFtIGNhbnZhcyB3aXRoIGRlZXAgbmF2eSBhcyB0aGUgYXV0aG9yaXR5IGNvbG9yLiBUaGlzIGlzbid0IHRlY2gtYmx1ZSAtIGl0J3MgdGhlIG5hdnkgb2YgYSBiZXNwb2tlIHN1aXQsIG9mIHRydXN0LCBvZiBlc3RhYmxpc2hlZCBpbnN0aXR1dGlvbnMuIEEgd2FybSBnb2xkIGFjY2VudCBmb3IgaGlnaGxpZ2h0cyBhbmQgcG9zaXRpdmUgc2lnbmFscyAtIGdvbGQgYmVjYXVzZSByZXZlbnVlIGludGVsbGlnZW5jZSBzaG91bGQgZmVlbCBsaWtlIGZpbmRpbmcgdHJlYXN1cmUuCgotIEJhY2tncm91bmQ6ICNGQ0ZDRkIgKHdhcm0gd2hpdGUpCi0gU3VyZmFjZTogI0ZGRkZGRgotIFN1cmZhY2UgRWxldmF0ZWQ6ICNGN0Y2RjMgKHBhcmNobWVudCkKLSBCb3JkZXI6ICNFOEU2RTEKLSBUZXh0IFByaW1hcnk6ICMwRjE3MkEgKGRlZXAgbmF2eS1ibGFjaykKLSBUZXh0IFNlY29uZGFyeTogIzY0NzQ4QiAoc2xhdGUpCi0gVGV4dCBUZXJ0aWFyeTogIzk0QTNCOAotIEFjY2VudCBOYXZ5OiAjMUUyOTNCCi0gQWNjZW50IEdvbGQ6ICNEOTc3MDYKLSBBY2NlbnQgRW1lcmFsZDogIzA1OTY2OQotIEFjY2VudCBSb3NlOiAjRTExRDQ4CgoqKkxheW91dCBQYXJhZGlnbSoqOiBNYWdhemluZS1zdHlsZSBhc3ltbWV0cmljIGdyaWQuIFRoZSBkYXNoYm9hcmQgdXNlcyBhIDEyLWNvbHVtbiBncmlkIHdoZXJlIHRoZSBoZXJvIG1ldHJpYyB0YWtlcyA4IGNvbHVtbnMgYW5kIHN1cHBvcnRpbmcgbWV0cmljcyB0YWtlIDQuIEluc2lnaHRzIGFyZSBwcmVzZW50ZWQgaW4gYW4gZWRpdG9yaWFsIGNhcmQgbGF5b3V0IHdpdGggdmFyeWluZyB3aWR0aHMuIFRoZSBSZXBvcnQgcGFnZSB1c2VzIGEgdHdvLWNvbHVtbiBsYXlvdXQgd2l0aCB0aGUgY2hhdCBvbiB0aGUgbGVmdCBhbmQgcmVzdWx0cyBmbG93aW5nIG9uIHRoZSByaWdodCBsaWtlIGEgbmV3c3BhcGVyLgoKKipTaWduYXR1cmUgRWxlbWVudHMqKjoKMS4gU2VyaWYgaGVhZGxpbmVzIChJbnN0cnVtZW50IFNlcmlmIG9yIFBsYXlmYWlyIERpc3BsYXkpIHBhaXJlZCB3aXRoIGNsZWFuIHNhbnMtc2VyaWYgYm9keSAtIHRoZSBpbnRlbGxlY3R1YWwgY29udHJhc3QKMi4gVGhpbiBob3Jpem9udGFsIHJ1bGVzIGFzIHNlY3Rpb24gZGl2aWRlcnMgLSBlZGl0b3JpYWwgdHJhZGl0aW9uCjMuIFB1bGwtcXVvdGUgc3R5bGUgZm9yIGtleSBpbnNpZ2h0cyAtIG92ZXJzaXplZCBpdGFsaWMgdGV4dCB0aGF0IGRlbWFuZHMgYXR0ZW50aW9uCgoqKkludGVyYWN0aW9uIFBoaWxvc29waHkqKjogSW50ZXJhY3Rpb25zIGZlZWwgY29uc2lkZXJlZCBhbmQgZWRpdG9yaWFsLiBIb3ZlciBzdGF0ZXMgYWRkIHN1YnRsZSB1bmRlcmxpbmVzIG9yIGNvbG9yIHNoaWZ0cyByYXRoZXIgdGhhbiBkcmFtYXRpYyB0cmFuc2Zvcm1zLiBUaGUgaW50ZXJmYWNlIHJlYWRzIGxpa2UgYSB3ZWxsLWRlc2lnbmVkIHB1YmxpY2F0aW9uIC0geW91IHNjcm9sbCB0aHJvdWdoIGl0LCBhYnNvcmJpbmcgaW5mb3JtYXRpb24gbmF0dXJhbGx5LiBUcmFuc2l0aW9ucyBhcmUgcGFnZS10dXJuIHNtb290aC4KCioqQW5pbWF0aW9uKio6Ci0gUGFnZSB0cmFuc2l0aW9uczogMzAwbXMgZWFzZSB3aXRoIGNvbnRlbnQgc2xpZGluZyB1cCBmcm9tIGJvdHRvbQotIENhcmRzOiAyMDBtcyBib3JkZXItY29sb3IgdHJhbnNpdGlvbiBvbiBob3ZlciAoZ3JheSB0byBuYXZ5KQotIE51bWJlcnM6IENvdW50aW5nIGFuaW1hdGlvbiB3aXRoIGVhc2luZyBvbiBwYWdlIGxvYWQKLSBTZWN0aW9uIHJldmVhbHM6IEludGVyc2VjdGlvbiBPYnNlcnZlciB3aXRoIDQwMG1zIGZhZGUtdXAsIHN0YWdnZXJlZAotIENoYXJ0czogNjAwbXMgZHJhdy1pbiBhbmltYXRpb24gd2l0aCBlYXNpbmcKCioqVHlwb2dyYXBoeSBTeXN0ZW0qKjoKLSBEaXNwbGF5IEhlYWRsaW5lczogSW5zdHJ1bWVudCBTZXJpZiBSZWd1bGFyLCA0MC00OHB4LCB0cmFja2luZyAtMC4wMWVtCi0gTnVtYmVyczogR2Vpc3QgQm9sZCwgNDQtNTJweCwgdHJhY2tpbmcgLTAuMDJlbSAoc2Fucy1zZXJpZiBmb3IgZGF0YSBjbGFyaXR5KQotIFNlY3Rpb24gSGVhZGVyczogR2Vpc3QgU2VtaWJvbGQsIDE4LTIwcHgKLSBCb2R5OiBHZWlzdCBSZWd1bGFyLCAxNC0xNXB4LCBsaW5lLWhlaWdodCAxLjcKLSBMYWJlbHM6IEdlaXN0IE1lZGl1bSwgMTFweCwgdXBwZXJjYXNlLCB0cmFja2luZyAwLjA4ZW0sIHNsYXRlIGNvbG9yCi0gUXVvdGVzL0luc2lnaHRzOiBJbnN0cnVtZW50IFNlcmlmIEl0YWxpYywgMjAtMjRweAoKPC90ZXh0Pgo8cHJvYmFiaWxpdHk+MC4wNTwvcHJvYmFiaWxpdHk+CjwvcmVzcG9uc2U+CgotLS0KCiMjIERlY2lzaW9uCgoqKlNlbGVjdGVkOiBJZGVhIDEgLSAiU3dpc3MgUHJlY2lzaW9uIioqCgpUaGlzIGFwcHJvYWNoIGJlc3Qgc2VydmVzIHRoZSBnb2FsIG9mIG1ha2luZyAkMjVLIGNvbnN1bHRpbmcgY2xpZW50cyB0aGluayAidGhlc2UgcGVvcGxlIGFyZSBlbGl0ZS4iIFRoZSBTd2lzcyBUeXBvZ3JhcGhpYyBTdHlsZSBpcyB0aGUgZ29sZCBzdGFuZGFyZCBvZiBwcm9mZXNzaW9uYWwgZGVzaWduIC0gaXQncyB3aGF0IExpbmVhciwgU3RyaXBlLCBhbmQgdGhlIHdvcmxkJ3MgYmVzdCBTYWFTIHByb2R1Y3RzIGFyZSBidWlsdCBvbi4gVGhlIHdhcm0gbW9ub2Nocm9tZSBwYWxldHRlIGF2b2lkcyB0aGUgInRlY2ggc3RhcnR1cCIgY2xpY2hlIHdoaWxlIHRoZSBvdmVyc2l6ZWQgbnVtYmVycyBjcmVhdGUgaW1tZWRpYXRlIHZpc3VhbCBpbXBhY3QuIFRoZSByZXN0cmFpbnQgSVMgdGhlIGx1eHVyeS4KCktleSBjb21taXRtZW50czoKLSBETSBTYW5zIGFzIHRoZSBwcmltYXJ5IHR5cGVmYWNlCi0gV2FybSBncmF5IHBhbGV0dGUgd2l0aCBlbWVyYWxkIGFjY2VudAotIExlZnQgc2lkZWJhciBuYXZpZ2F0aW9uCi0gOHB4IGdyaWQgc3lzdGVtCi0gT3ZlcnNpemVkIG1ldHJpYyBudW1iZXJzIGFzIHRoZSBoZXJvIGVsZW1lbnQKLSBNaW5pbWFsIGFuaW1hdGlvbiwgbWF4aW11bSBwcmVjaXNpb24K"}
+# RISE Revenue Intelligence - Design Brainstorm
+
+<response>
+<text>
+
+## Idea 1: "Swiss Precision" - International Typographic Style
+
+**Design Movement**: Swiss/International Typographic Style meets modern SaaS (think Linear meets Bloomberg Terminal refinement)
+
+**Core Principles**:
+1. Mathematical precision in every spacing decision - 8px grid system, no exceptions
+2. Typography as the primary design element - hierarchy through weight and scale, not decoration
+3. Restrained color - near-monochrome with a single accent for action states
+4. Information density without clutter - every pixel earns its place
+
+**Color Philosophy**: A near-monochrome palette rooted in warm grays (not cold blue-grays). The warmth signals approachability while the restraint signals sophistication. A single emerald accent (#10B981) for positive metrics and CTAs - green because this is about revenue growth. Red (#EF4444) only for critical alerts. The absence of color IS the design.
+
+- Background: #FAFAF9 (warm off-white)
+- Surface: #FFFFFF
+- Border: #E7E5E4 (warm gray)
+- Text Primary: #1C1917 (warm near-black)
+- Text Secondary: #78716C (warm mid-gray)
+- Text Tertiary: #A8A29E
+- Accent: #10B981 (emerald)
+- Destructive: #EF4444
+
+**Layout Paradigm**: Left-anchored sidebar navigation with a generous content area. The sidebar is minimal - just icons with labels, 64px wide collapsed, 240px expanded. Content area uses a single-column layout with cards that breathe. No cramped multi-column grids.
+
+**Signature Elements**:
+1. Oversized metric numbers in a display font (DM Sans or Instrument Sans) at 48-56px - the numbers ARE the interface
+2. Subtle dot-grid pattern on empty states - references graph paper, signals precision
+3. Micro-labels in uppercase tracking-wide 10px - creates tension with large numbers
+
+**Interaction Philosophy**: Interactions should feel immediate and precise. No bouncy animations. Spring-based transitions with high stiffness. Hover states reveal additional context (tooltips, expanded cards) rather than changing visual weight. Everything responds within 100ms.
+
+**Animation**:
+- Page transitions: 200ms ease-out opacity + 8px translateY
+- Card hover: 150ms subtle shadow elevation (0 1px 3px to 0 4px 12px)
+- Number counters: 800ms spring animation on initial load
+- Sidebar: 200ms width transition with content crossfade
+- Skeleton loading: Subtle shimmer at 1.5s cycle
+
+**Typography System**:
+- Display/Numbers: DM Sans Bold, 48-56px, tracking tight (-0.02em)
+- Page Titles: DM Sans Semibold, 28-32px
+- Section Headers: DM Sans Medium, 18-20px
+- Body: DM Sans Regular, 14-15px, line-height 1.6
+- Labels: DM Sans Medium, 11-12px, uppercase, tracking 0.05em
+- Mono (for specific data): JetBrains Mono, 13px
+
+</text>
+<probability>0.08</probability>
+</response>
+
+<response>
+<text>
+
+## Idea 2: "Dark Command Center" - Tactical Intelligence Aesthetic
+
+**Design Movement**: Military-grade command center meets Whoop/Arc Browser dark mode - the "war room" for revenue
+
+**Core Principles**:
+1. Dark-first design that feels like a premium instrument panel, not a hacker terminal
+2. Glowing data points against dark surfaces - information emerges from darkness
+3. Layered depth through subtle transparency and blur effects
+4. Status-driven color coding - every color has semantic meaning
+
+**Color Philosophy**: Deep charcoal base (not pure black - that's amateur) with layered surfaces using subtle transparency. Accent colors are functional, not decorative: emerald for growth/positive, amber for warnings, rose for critical. A cool blue-white for primary text creates contrast without harshness.
+
+- Background: #0A0A0B (near-black)
+- Surface 1: rgba(255,255,255,0.03)
+- Surface 2: rgba(255,255,255,0.06)
+- Surface 3: rgba(255,255,255,0.09)
+- Border: rgba(255,255,255,0.08)
+- Text Primary: #F4F4F5 (cool white)
+- Text Secondary: #A1A1AA
+- Text Tertiary: #71717A
+- Accent Green: #34D399
+- Accent Amber: #FBBF24
+- Accent Rose: #FB7185
+
+**Layout Paradigm**: Top navigation bar with a full-width content area. Navigation is a thin 56px bar with centered tabs. Content uses a masonry-inspired card layout where cards have varying heights based on content importance. Critical insights get 2x height.
+
+**Signature Elements**:
+1. Glassmorphic card surfaces with backdrop-blur and subtle border glow on hover
+2. Animated gradient borders on active/critical cards (subtle, not garish)
+3. Status indicator dots that pulse gently for live data
+
+**Interaction Philosophy**: Interactions feel like operating a precision instrument. Cards lift slightly on hover with a glow effect. Transitions are smooth and deliberate. Click feedback is immediate with a subtle scale pulse. The interface rewards exploration with progressive disclosure.
+
+**Animation**:
+- Cards: 300ms spring with slight scale (1.0 to 1.01) and glow on hover
+- Page transitions: 250ms crossfade with staggered card entrance (50ms delay each)
+- Status dots: 2s infinite pulse animation
+- Gradient borders: 3s infinite rotation on critical items
+- Loading: Skeleton with subtle glow sweep
+
+**Typography System**:
+- Display/Numbers: Inter Tight Bold, 44-52px, tracking -0.03em
+- Page Titles: Inter Tight Semibold, 26-30px
+- Section Headers: Inter Medium, 16-18px
+- Body: Inter Regular, 14px, line-height 1.65
+- Labels: Inter Medium, 11px, uppercase, tracking 0.06em
+- Mono: Geist Mono, 13px
+
+</text>
+<probability>0.06</probability>
+</response>
+
+<response>
+<text>
+
+## Idea 3: "Editorial Intelligence" - Magazine-Grade Data Storytelling
+
+**Design Movement**: Editorial design (think Monocle magazine, Bloomberg Businessweek) meets Stripe's clarity - data presented as narrative
+
+**Core Principles**:
+1. Serif + sans-serif tension creates intellectual authority
+2. Generous whitespace that signals confidence and premium positioning
+3. Data as editorial content - charts and numbers are stories, not just displays
+4. Asymmetric layouts that guide the eye through a deliberate reading flow
+
+**Color Philosophy**: Predominantly white/cream canvas with deep navy as the authority color. This isn't tech-blue - it's the navy of a bespoke suit, of trust, of established institutions. A warm gold accent for highlights and positive signals - gold because revenue intelligence should feel like finding treasure.
+
+- Background: #FCFCFB (warm white)
+- Surface: #FFFFFF
+- Surface Elevated: #F7F6F3 (parchment)
+- Border: #E8E6E1
+- Text Primary: #0F172A (deep navy-black)
+- Text Secondary: #64748B (slate)
+- Text Tertiary: #94A3B8
+- Accent Navy: #1E293B
+- Accent Gold: #D97706
+- Accent Emerald: #059669
+- Accent Rose: #E11D48
+
+**Layout Paradigm**: Magazine-style asymmetric grid. The dashboard uses a 12-column grid where the hero metric takes 8 columns and supporting metrics take 4. Insights are presented in an editorial card layout with varying widths. The Report page uses a two-column layout with the chat on the left and results flowing on the right like a newspaper.
+
+**Signature Elements**:
+1. Serif headlines (Instrument Serif or Playfair Display) paired with clean sans-serif body - the intellectual contrast
+2. Thin horizontal rules as section dividers - editorial tradition
+3. Pull-quote style for key insights - oversized italic text that demands attention
+
+**Interaction Philosophy**: Interactions feel considered and editorial. Hover states add subtle underlines or color shifts rather than dramatic transforms. The interface reads like a well-designed publication - you scroll through it, absorbing information naturally. Transitions are page-turn smooth.
+
+**Animation**:
+- Page transitions: 300ms ease with content sliding up from bottom
+- Cards: 200ms border-color transition on hover (gray to navy)
+- Numbers: Counting animation with easing on page load
+- Section reveals: Intersection Observer with 400ms fade-up, staggered
+- Charts: 600ms draw-in animation with easing
+
+**Typography System**:
+- Display Headlines: Instrument Serif Regular, 40-48px, tracking -0.01em
+- Numbers: Geist Bold, 44-52px, tracking -0.02em (sans-serif for data clarity)
+- Section Headers: Geist Semibold, 18-20px
+- Body: Geist Regular, 14-15px, line-height 1.7
+- Labels: Geist Medium, 11px, uppercase, tracking 0.08em, slate color
+- Quotes/Insights: Instrument Serif Italic, 20-24px
+
+</text>
+<probability>0.05</probability>
+</response>
+
+---
+
+## Decision
+
+**Selected: Idea 1 - "Swiss Precision"**
+
+This approach best serves the goal of making $25K consulting clients think "these people are elite." The Swiss Typographic Style is the gold standard of professional design - it's what Linear, Stripe, and the world's best SaaS products are built on. The warm monochrome palette avoids the "tech startup" cliche while the oversized numbers create immediate visual impact. The restraint IS the luxury.
+
+Key commitments:
+- DM Sans as the primary typeface
+- Warm gray palette with emerald accent
+- Left sidebar navigation
+- 8px grid system
+- Oversized metric numbers as the hero element
+- Minimal animation, maximum precision
